@@ -8,6 +8,15 @@ title {
     font-family: "Roboto Slab";
 }
 
+h1 {
+    font-size: 40px;
+
+}
+
+h4 {
+    font-size: 20px;
+}
+
 header {
     font-family: "Abril Fatface";
     text-align: center;
@@ -44,6 +53,9 @@ a {
 nav {
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    position: sticky;
+    top: 0px;
+    background-color: white;
 }
 
 ul {
@@ -62,4 +74,17 @@ li {
 p {
     text-align: justify;
     padding: 0px 15px;
+}
+
+#Tabs {
+    margin-right: 50px;
+}
+
+#caffeine {
+    margin-right: 00px;
+}
+
+.more-articles {
+    display: flex;
+    border-top: 1px solid #eee;
 }
