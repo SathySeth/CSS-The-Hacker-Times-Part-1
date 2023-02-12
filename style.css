@@ -29,6 +29,7 @@ body {
 
 a {
     color: #777;
+    text-decoration: none;
 }
 ul {
     list-style-type: none; 
