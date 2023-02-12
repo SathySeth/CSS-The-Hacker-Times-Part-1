@@ -2,6 +2,7 @@
 
 .date {
     text-align: left;
+    color: #777;
 }
 title {
     font-family: "Roboto Slab";
@@ -27,6 +28,14 @@ body {
     background-color: white;
 }
 
+h5 {
+    color: red;
+}
+
+img {
+    width: 100%;
+}
+
 a {
     color: #777;
     text-decoration: none;
@@ -49,4 +58,8 @@ li {
     padding: 5px;
     margin: 0;
     
+}
+p {
+    text-align: justify;
+    padding: 0px 15px;
 }
